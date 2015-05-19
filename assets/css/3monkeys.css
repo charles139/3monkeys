@@ -1,0 +1,114 @@
+*
+{
+	margin: 0 auto;
+}
+#container
+{
+	background:url('/assets/images/movie.png') no-repeat center center;
+    height: 560px;
+    width: 990px;
+    /*text-align: center;*/
+}
+#header
+{
+	background-color: #000000;
+	width: 924px;
+	height: 135px;
+	margin: 10px 0px 0px 33px;
+	display: inline-block;
+	vertical-align: top;
+}
+#logo
+{
+	width: 167px;
+	height: auto; 
+	display: inline-block;
+	margin: -38px 10px 0px 3px;
+}
+#menu
+{
+	display: inline-block;
+	margin: 5px 0px 0px 5px;
+	width: 240px;
+	height: 40px;
+}
+#search
+{
+	display: inline-block;
+	vertical-align: top;
+	margin: 5px 0px 0px 5px;
+	width: 240px;
+	height: 20px;
+}
+.button
+{
+	height: 26px;
+	font-weight: bold;
+	vertical-align: top;
+	font-size: 16px;
+	margin: 5px 33px 0px -3px;
+}
+#links
+{
+	display: inline-block;
+	color: yellow;
+	vertical-align: top;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 5px 0px 0px 90px;
+	padding: 5px;
+	text-decoration: none;
+}
+#title
+{
+	margin: -80px 0px 0px 270px;
+}
+#body
+{
+	margin: 20px -6px 0px 33px;
+	/*padding-top: 10px;*/
+	width: 612px;
+	height: 530px;
+	display: inline-block;
+	/*border: 2px solid black;*/
+}
+.thumbs, img
+{
+	height: 110px;
+	width: 75px;
+	margin: 20px -10px 10px 42px;
+	/*background-color: blue;*/
+	display: inline-block;
+	border: 2px solid black;
+	box-shadow: -7px -7px 7px #888888;
+
+}
+#sidebar
+{
+	padding-top: 25px;
+	width: 310px;
+	height: 570px;
+	display: inline-block;
+	vertical-align: top;
+}
+h1
+{
+	color: white;
+}
+h2
+{
+	margin: 5px 0px 5px 40px;
+	color: white;
+	font-size: 27px;
+}
+textarea
+{
+	margin: 16px 0px 0px 30px;
+	height: 100px;
+	width: 250px;
+	overflow: scroll;
+}
+#review
+{
+	margin: 10px 0px 0px 227px;
+}
